@@ -8,7 +8,3 @@ export default new Command({
   },
   
 });
-
-/**
- * ve kodları öneriyo
- *  komutlar böyle
