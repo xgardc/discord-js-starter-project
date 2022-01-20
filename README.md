@@ -2,17 +2,17 @@
 
 
 ### How to start project?
-<br>
+<br/>
 Start for developing
 ```bash
 $ npm run start:dev
 ```
-<br>
+<br/>
 Start for testing
 ```bash
 $ npm run start
 ```
-<br>
+<br/>
 Start for production
 ```bash
 $ npm run build
