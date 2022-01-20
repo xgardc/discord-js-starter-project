@@ -1,17 +1,19 @@
 # Discord.JS V13 TypeScript Empty Starter Project
 
 
-### How to start for developer mod
+### How to start project?
+
+Start for developing
 ```bash
 $ npm run start:dev
 ```
 
-### How to start for testing
+Start for testing
 ```bash
 $ npm run start
 ```
 
-### How to start for production mod
+Start for production
 ```bash
 $ npm run build
 $ npm run start:dev
