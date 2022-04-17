@@ -15,5 +15,5 @@ $ npm run start
 ### Start for production
 ```bash
 $ npm run build
-$ npm run start:dev
+$ npm run start:prod
 ```
